@@ -1,4 +1,4 @@
-# Project Lyrics
+# Project Muse
 
 Develop an elegant React.js Music Application. 
 
